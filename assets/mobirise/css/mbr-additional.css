@@ -1521,100 +1521,6 @@ a {
 .cid-ugI9tLT5LZ .list {
   color: #ffffff;
 }
-.cid-usmYbrezVu {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-usmYbrezVu .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-usmYbrezVu .col-12 {
-  padding: 0;
-}
-.cid-usmYbrezVu .row {
-  margin: 0;
-}
-.cid-usmYbrezVu .card-margin {
-  margin-left: -1px;
-}
-@media (max-width: 992px) {
-  .cid-usmYbrezVu .card-margin {
-    margin-top: -1px;
-  }
-}
-.cid-usmYbrezVu .card-wrapper {
-  min-height: 500px;
-  border: 1px solid #221b35;
-  height: 100%;
-  display: flex;
-  justify-content: space-between;
-  flex-direction: column;
-  padding: 2rem;
-}
-@media (max-width: 767px) {
-  .cid-usmYbrezVu .card-wrapper {
-    padding: 1rem;
-  }
-}
-.cid-usmYbrezVu .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-usmYbrezVu .card-company-row {
-  margin-top: auto;
-  margin-bottom: 0;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-}
-@media (max-width: 767px) {
-  .cid-usmYbrezVu .card-company-row {
-    margin-top: 0.5em;
-  }
-}
-.cid-usmYbrezVu .card-company-row .card-company-name {
-  white-space: nowrap;
-  margin-right: 5px;
-  margin-bottom: 5px;
-}
-.cid-usmYbrezVu .card-company-row .card-company-name:last-child {
-  margin-right: 0;
-}
-.cid-usmYbrezVu .card-company-name {
-  text-transform: uppercase;
-  display: inline-flex;
-  align-items: center;
-  border: solid 1px currentColor;
-  text-align: left;
-  padding: 3px 8px;
-  margin-bottom: 0;
-  border-radius: 20px;
-  line-height: 1;
-  color: #221b35;
-}
-@media (max-width: 991px) {
-  .cid-usmYbrezVu .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-usmYbrezVu .image-wrapper {
-    padding: 1rem;
-  }
-}
-.cid-usmYbrezVu .mbr-section-title {
-  color: #221b35;
-}
-.cid-usmYbrezVu .mbr-text,
-.cid-usmYbrezVu .mbr-section-btn {
-  color: #221b35;
-}
 .cid-ugI9fFGGGp {
   z-index: 1000;
   width: 100%;
@@ -2166,6 +2072,100 @@ a {
   .cid-ugI9fFGGGp .navbar-collapse {
     padding: 1rem;
   }
+}
+.cid-usmYbrezVu {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-usmYbrezVu .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-usmYbrezVu .col-12 {
+  padding: 0;
+}
+.cid-usmYbrezVu .row {
+  margin: 0;
+}
+.cid-usmYbrezVu .card-margin {
+  margin-left: -1px;
+}
+@media (max-width: 992px) {
+  .cid-usmYbrezVu .card-margin {
+    margin-top: -1px;
+  }
+}
+.cid-usmYbrezVu .card-wrapper {
+  min-height: 500px;
+  border: 1px solid #221b35;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-usmYbrezVu .card-wrapper {
+    padding: 1rem;
+  }
+}
+.cid-usmYbrezVu .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-usmYbrezVu .card-company-row {
+  margin-top: auto;
+  margin-bottom: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+@media (max-width: 767px) {
+  .cid-usmYbrezVu .card-company-row {
+    margin-top: 0.5em;
+  }
+}
+.cid-usmYbrezVu .card-company-row .card-company-name {
+  white-space: nowrap;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+.cid-usmYbrezVu .card-company-row .card-company-name:last-child {
+  margin-right: 0;
+}
+.cid-usmYbrezVu .card-company-name {
+  text-transform: uppercase;
+  display: inline-flex;
+  align-items: center;
+  border: solid 1px currentColor;
+  text-align: left;
+  padding: 3px 8px;
+  margin-bottom: 0;
+  border-radius: 20px;
+  line-height: 1;
+  color: #221b35;
+}
+@media (max-width: 991px) {
+  .cid-usmYbrezVu .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-usmYbrezVu .image-wrapper {
+    padding: 1rem;
+  }
+}
+.cid-usmYbrezVu .mbr-section-title {
+  color: #221b35;
+}
+.cid-usmYbrezVu .mbr-text,
+.cid-usmYbrezVu .mbr-section-btn {
+  color: #221b35;
 }
 .cid-ugI9tLT5LZ {
   padding-top: 5rem;
